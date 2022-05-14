@@ -15,7 +15,7 @@ public class loop {
 //        }
 
 
-//     }
+//    }
 //)
 Scanner scn = new Scanner(System.in);
 int t= scn.nextInt();
@@ -35,8 +35,8 @@ for (int i = 0; i < t; i++) {
         
     }
     
-}
-
+      }
+    }
 
 
 
