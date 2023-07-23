@@ -26,7 +26,7 @@ public class targsumsub {
                       dp[i][j]=true;
                   }else{
                       int val=arr[i-1];
-                      if(val>=j){
+                      if(j>=val){
                           if(dp[i-1][j-val]==true){
                               dp[i][j]=true;
                           }

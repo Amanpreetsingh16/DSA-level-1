@@ -3,7 +3,7 @@ package dp;
 import java.util.*;
 public class staircs {
     public static void main(String[] args) throws Exception {
-        try (// write your code here
+        try (
         Scanner scn = new Scanner(System.in)) {
             int n= scn.nextInt();
             int cp=countpathtab(n);
